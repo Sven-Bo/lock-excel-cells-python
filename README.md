@@ -1,7 +1,7 @@
 
 # How to Lock Cells in Excel using Python 🔒 (by Cell Color, Font Style, Formula or Cell Value)
 
-This video will show you how to lock cells in Excel using Python. The process is simple and the code is short, so you can make sure your spreadsheet is protected from accidental editing with just a few lines of code. We will look at how you can lock cells by their fill colour, font style, formula or cell value. This is really helpful if you have a lot of data and you want to protect it from being tampered with.
+This video will show you how to lock cells in Excel using Python. The process is simple and the code is short, so you can make sure your spreadsheet is protected from accidental editing with just a few lines of code. We will look at how you can lock cells by their fill colour, font style, formula or cell value. This is really helpful if you have a lot of data and you want to protect it from being tampered with.\
 A quick note: This method will only work on **Windows**, as we are going to use the pywin32 library.
 
 ## Video Tutorial

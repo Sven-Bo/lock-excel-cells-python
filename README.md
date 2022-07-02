@@ -5,8 +5,7 @@ This video will show you how to lock cells in Excel using Python. The process is
 🚨 Please note: This method will only work on **Windows**, as we are going to use the pywin32 library.
 
 ## Video Tutorial
-..will follow soon!
-[![YouTube Video](https://img.youtube.com/vi/XXX/0.jpg)](https://youtu.be/XXX)
+[![YouTube Video](https://img.youtube.com/vi/-Fs0scDHUT8/0.jpg)](https://youtu.be/-Fs0scDHUT8)
 
 ## Requirements
 ```

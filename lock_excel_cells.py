@@ -12,7 +12,7 @@ def rgb_to_int(rgb):
 # ---------------- SETTINGS ----------------
 excel_file_name = "EBIT_2022.xlsx"
 worksheet_password = "pw"
-lock_color = rgb_to_int((255, 255, 153))
+cell_color = rgb_to_int((255, 255, 153))
 # ------------------------------------------
 
 
@@ -48,7 +48,7 @@ for sh in wb.Sheets:
             #             if not cell.HasFormula:
             #                 cell.Locked = False
 
-            if cell.Interior.color == lock_color:
+            if cell.Interior.color == cell_color:
                 cell.Locked = False
 
             else:
